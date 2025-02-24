@@ -1,35 +1,38 @@
-📌 Proyecto: Visualizador de Videos de YouTube
-    Este proyecto permite buscar videos de YouTube, obtener detalles como título, vistas y comentarios, y mostrarlos en un modal dinámico. 
-    Utiliza la API de YouTube a través de RapidAPI y está desarrollado con PHP, JavaScript, Bootstrap y Fetch API.
+# 📌 Proyecto: Visualizador de Videos de YouTube  
 
-🚀 Características
-    ✅ Búsqueda de videos de YouTube en tiempo real
-    ✅ Visualización de detalles del video (título, vistas, fecha de publicación)
-    ✅ Carga dinámica de comentarios con avatar, likes y respuestas
-    ✅ Integración con Bootstrap para una interfaz amigable
+Este proyecto permite buscar videos de YouTube, obtener detalles como título, vistas y comentarios, y mostrarlos en un modal dinámico.  
 
-🛠️ Instalación
-    Descargar el proyecto:
-    Haz clic en el botón Code y selecciona Download ZIP.
-    Extrae el contenido del archivo ZIP en tu servidor local.
+## 🚀 Características  
 
-Configurar el entorno:
-    Asegúrate de tener un servidor local como XAMPP o WAMP con soporte para PHP.
-    Configura tu clave de RapidAPI en los archivos PHP:
-        Reemplaza "X-RapidAPI-Key" con tu clave en youtube_api.php, youtube_details.php y youtube_comments.php.
+✅ Búsqueda de videos de YouTube en tiempo real  
+✅ Visualización de detalles del video (título, vistas, fecha de publicación)  
+✅ Carga dinámica de comentarios con avatar, likes y respuestas  
+✅ Integración con Bootstrap para una interfaz amigable  
 
-Ejecutar el proyecto:
-    Abre index.html en tu navegador o accede a la carpeta desde tu servidor local.
+## 🛠️ Instalación  
 
-🖼️ Demo
-    http://widget.free.nf/Gallery
+### Descargar el proyecto  
+- Haz clic en el botón **Code** y selecciona **Download ZIP**.  
+- Extrae el contenido del archivo ZIP en tu servidor local.  
 
-🛠️ Tecnologías utilizadas
-    PHP
-    JavaScript (Fetch API)
-    Bootstrap
-    YouTube API (RapidAPI)
+### Configurar el entorno  
+- Asegúrate de tener un servidor local como **XAMPP** o **WAMP** con soporte para PHP.  
+- Configura tu clave de **RapidAPI** en los archivos PHP:  
+  - Reemplaza `"X-RapidAPI-Key"` con tu clave en `youtube_api.php`, `youtube_details.php` y `youtube_comments.php`.  
 
-📜 Licencia
-    Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y mejorarlo!
+### Ejecutar el proyecto  
+- Abre `index.html` en tu navegador o accede a la carpeta desde tu servidor local.  
+
+## 🖼️ Demo  
+🔗 [Ver demo](http://widget.free.nf/Gallery)  
+
+## 🛠️ Tecnologías utilizadas  
+- **PHP**  
+- **JavaScript** (Fetch API)  
+- **Bootstrap**  
+- **YouTube API** (RapidAPI)  
+
+## 📜 Licencia  
+Este proyecto está bajo la licencia **MIT**. ¡Siéntete libre de usarlo y mejorarlo!  
+
 
