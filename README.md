@@ -21,7 +21,7 @@ Este proyecto permite buscar videos de YouTube, obtener detalles como título, v
   - Reemplaza `"X-RapidAPI-Key"` con tu clave en `youtube_api.php`, `youtube_details.php` y `youtube_comments.php`.  
 
 ### Ejecutar el proyecto  
-- Abre `index.html` en tu navegador o accede a la carpeta desde tu servidor local.  
+- Abre `index.php` en tu navegador o accede a la carpeta desde tu servidor local.  
 
 ## 🖼️ Demo  
 🔗 [Ver demo](http://widget.free.nf/Gallery)  
